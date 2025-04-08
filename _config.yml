@@ -1,0 +1,9 @@
+title: My Jekyll Site
+description: A description of your site
+author: Your Name
+
+# URL for the site
+url: "https://www.Mounsef-Hachem.github.io" # This can be left as an empty string for local development
+
+# Default theme
+theme: "minima"  # Replace "minima" with the theme you want to use
